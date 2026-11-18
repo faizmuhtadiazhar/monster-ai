@@ -1,3 +1,10 @@
-# fire
+# FIRE — TRAINING
 
-Letakkan gambar kelas FIRE untuk training di folder ini. Pastikan gambar minimal 32 x 32 piksel.
+Masukkan gambar kelas **FIRE** untuk bagian **TRAINING** ke folder ini.
+
+Ketentuan:
+- Resolusi gambar minimal 32 x 32 piksel.
+- Format: JPG, JPEG, atau PNG.
+- Gunakan variasi sudut, jarak, latar, dan pencahayaan.
+- Jangan gunakan foto yang sama/nyaris sama pada training dan test.
+- Catat sumber, izin/lisensi, mode pengambilan, dan subjenis gambar pada dataset_manifest.csv.
